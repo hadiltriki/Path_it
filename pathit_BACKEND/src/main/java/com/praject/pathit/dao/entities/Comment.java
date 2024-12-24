@@ -16,7 +16,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-@Document("Comments")
+@Document("Comments")//comment
 public class Comment {
 @Id
     private String id;
