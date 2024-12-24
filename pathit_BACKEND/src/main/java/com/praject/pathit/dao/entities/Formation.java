@@ -19,6 +19,7 @@ import java.util.List;
 @Setter
 @Document( collection = "formations")
 public class Formation {
+  //hadil
 
     @Id
     private String id; // MongoDB ID (String)
